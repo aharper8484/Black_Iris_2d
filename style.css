@@ -1,8 +1,5 @@
-* {
-}
-
 h1 {
-  color: lightgray;
+  color: darkgrey;
   text-align: center;
 }
 
@@ -14,5 +11,5 @@ body {
   display: flex;
   justify-content: center;
   height: 100vh;
-  background: linear-gradient(0deg, rgb(36, 141, 29) 0%, rgb(17, 51, 161) 60%);
+  background: linear-gradient(0deg, rgb(17, 51, 161) 0%, black 60%);
 }
