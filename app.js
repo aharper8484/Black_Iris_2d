@@ -1,4 +1,4 @@
-import TileMap from "modules/TileMap.js";
+import TileMap from "/modules/TileMap.js";
 
 const canvas = document.getElementById("game");
 const ctx = canvas.getContext("2d");
